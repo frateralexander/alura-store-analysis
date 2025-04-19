@@ -23,6 +23,10 @@ Essas métricas foram analisadas com foco na performance e satisfação do clien
 alura-store-analysis/
 ├── alura_store_analysis.ipynb  # Notebook com análise completa
 ├── data/                       # Dados brutos (CSV das 4 lojas)
+│   ├── loja_1.csv              # Dataset da Loja 1
+│   ├── loja_2.csv              # Dataset da Loja 2
+│   ├── loja_3.csv              # Dataset da Loja 3
+│   └── loja_4.csv              # Dataset da Loja 4
 └── README.md                   # Documentação do projeto
 ```
 
